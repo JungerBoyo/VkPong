@@ -1,0 +1,2 @@
+add_library(ConstexprMap INTERFACE)
+target_sources(ConstexprMap INTERFACE ConstexprMap.h)

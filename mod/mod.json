@@ -1,0 +1,19 @@
+{
+    "backgroundTexturePath": "textures/background.jpeg",
+    
+    "lhsPlayerTexturePath": "textures/lhsP.png",
+    "lhsPlayerHorizontalPos": -0.75,
+    "lhsPlayerScaling": [0.03, 0.2],
+    "lhsPlayerSpeed": 0.001,
+    
+    "rhsPlayerTexturePath": "textures/rhsP.png",
+    "rhsPlayerHorizontalPos": 0.75,
+    "rhsPlayerScaling": [0.03, 0.2],
+    "rhsPlayerSpeed": 0.001,
+    
+    "ballTexturePath": "textures/ball.png",
+    "ballScaling": [0.04, 0.04],
+    "ballSpeed": 0.001,
+
+    "framesInFlight": 1
+}

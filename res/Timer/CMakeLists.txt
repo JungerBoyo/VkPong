@@ -1,0 +1,1 @@
+add_library(Timer Timer.h Timer.cpp)
