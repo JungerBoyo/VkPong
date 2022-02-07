@@ -2,9 +2,9 @@
 
 Simple Pong game demo made after going through vulkan tutorials mainly from vulkan-tutorial.com and https://www.intel.com/content/www/us/en/developer/articles/training/api-without-secrets-introduction-to-vulkan-part-1.html.
 
-<center>
+<p align="center">
 <a href="https://ibb.co/j5WgGb0"><img src="https://i.ibb.co/ZJYWKG4/1.png" alt="1" border="0"></a>
-</center>
+</p>
 
 
 ## Configuration file
@@ -38,5 +38,4 @@ To run you need glfw3 windowing library, Vulkan SDK and {fmt} lib. Also C++20 co
 `./rebuild` -> `./compile` ->`./run`
 
 ##
-##
-##
+
